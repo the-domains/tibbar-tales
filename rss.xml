@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mobile photography]]></title>
         <description><![CDATA[mobile photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tibbar-tales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 17:37:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 17:38:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tibbar-tales/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Art of Mob - iPhoneography and other Mobile Photography: Mob Paint #47]]></title>
-            <description><![CDATA[<article><h1>Art of Mob - iPhoneography and other Mobile Photography: Mob Paint #47</h1><p>As for the future of Art of Mob...I tried to continue on a limited basis this year but soon found myself blogging at nearly the pace I had in previous years. So, I'll be discontinuing posting new articles but will leave Art of Mob online as a resource for those interested in mobile photography.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fde95371f33b66f1df270b56e3990ccc/noop.png?input=http%3A%2F%2F2.bp.blogspot.com%2F-x4zp4B4Pmv8%2FVoHL7nv5KeI%2FAAAAAAAAiPc%2FOwsKJAK-Pko%2Fw1200-h630-p-nu%2F1SandraBecker-resized.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Art of Mob - iPhoneography and other Mobile Photography: Mob Paint #47</h1><p>As for the future of Art of Mob...I tried to continue on a limited basis this year but soon found myself blogging at nearly the pace I had in previous years. So, I'll be discontinuing posting new articles but will leave Art of Mob online as a resource for those interested in mobile photography.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbb595f1-fc18-4633-9e3b-951b7d3159c0.png"></article>]]></description>
             <link>http://artofmob.blogspot.com/2015/12/mob-paint-47.html</link>
             <guid isPermaLink="false">5e3768a9-0c99-41eb-96c6-d185e33b0065</guid>
-            <pubDate>Wed, 03 Aug 2016 17:37:23 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 17:38:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
