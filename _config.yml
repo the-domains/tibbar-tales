@@ -1,16 +1,16 @@
-typography_spectrum: 0.9686352864373475
+typography_spectrum: 0.23537306836806238
 color:
-  brandStrength: 0.36766177555546165
-  lightness: 0.18570358073338866
-  saturation: 0.2624779869802296
-  rhythmicContrast: 0.3208434977568686
+  brandStrength: 0.8241220242343843
+  lightness: 0.8029939096886665
+  saturation: 0.2044695469085127
+  rhythmicContrast: 0.7748835945967585
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-layout_spectrum: 0.02217496349476278
+    - '#D4D5D7'
+    - '#6A617E'
+    - '#A09697'
+    - '#E5B6AC'
+    - '#AD6070'
+layout_spectrum: 0.4145754270721227
 name: tibbar tales
 navigation:
   - name: About
