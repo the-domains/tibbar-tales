@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-03T17:37:23.760Z'
+datePublished: '2016-08-03T17:38:44.791Z'
+sourcePath: _posts/2016-08-03-art-of-mob-iphoneography-and-other-mobile-photography-mob.md
 isBasedOnUrl: 'http://artofmob.blogspot.com/2015/12/mob-paint-47.html'
 keywords:
   - app
@@ -15,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T17:37:14.636Z'
+dateModified: '2016-08-03T17:38:44.365Z'
 title: 'Art of Mob - iPhoneography and other Mobile Photography: Mob Paint #47'
 app_links: []
 publisher:
@@ -30,7 +31,6 @@ description: >-
   Mob online as a resource for those interested in mobile photography.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-03-art-of-mob-iphoneography-and-other-mobile-photography-mob.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fde95371f33b66f1df270b56e3990ccc/noop.png?input=http%3A%2F%2F2.bp.blogspot.com%2F-x4zp4B4Pmv8%2FVoHL7nv5KeI%2FAAAAAAAAiPc%2FOwsKJAK-Pko%2Fw1200-h630-p-nu%2F1SandraBecker-resized.png" /><h1>Art of Mob - iPhoneography and other Mobile Photography: Mob Paint #47</h1><p>As for the future of Art of Mob...I tried to continue on a limited basis this year but soon found myself blogging at nearly the pace I had in previous years. So, I'll be discontinuing posting new articles but will leave Art of Mob online as a resource for those interested in mobile photography.</p></article>
+![Wood Nymph, Enticed by Sandra Becker](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbb595f1-fc18-4633-9e3b-951b7d3159c0.png)
