@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-03T17:12:36.787Z'
+datePublished: '2016-08-03T17:24:12.006Z'
+sourcePath: _posts/2016-08-03-pikazo-prismalook-sketchclub-snapseed-formulasapp.md
 isBasedOnUrl: 'https://www.instagram.com/p/BIehbVLgkES/?taken-by=gericentonze'
 keywords: []
 related: []
@@ -8,7 +9,7 @@ author:
     url: 'https://www.instagram.com/gericentonze'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T16:55:52.002Z'
+dateModified: '2016-08-03T17:24:11.668Z'
 title: ''
 app_links:
   - url: 'instagram://media?id=1305627955686424850'
@@ -33,7 +34,6 @@ publisher:
   domain: www.instagram.com
 description: ''
 starred: false
-sourcePath: _posts/2016-08-03-pikazo-prismalook-sketchclub-snapseed-formulasapp.md
 inFeed: true
 hasPage: false
 inNav: false
