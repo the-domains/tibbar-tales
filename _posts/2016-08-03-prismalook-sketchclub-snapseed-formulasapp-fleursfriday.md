@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-03T17:12:48.388Z'
+datePublished: '2016-08-03T17:24:01.930Z'
+sourcePath: _posts/2016-08-03-prismalook-sketchclub-snapseed-formulasapp-fleursfriday.md
 isBasedOnUrl: 'https://www.instagram.com/p/BIpwryrg5xr/?taken-by=gericentonze'
 keywords: []
 related: []
@@ -8,7 +9,7 @@ author:
     url: 'https://www.instagram.com/gericentonze'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T16:58:22.097Z'
+dateModified: '2016-08-03T17:24:01.270Z'
 title: ''
 app_links:
   - url: 'instagram://media?id=1308791282315009131'
@@ -33,7 +34,6 @@ publisher:
   domain: www.instagram.com
 description: ''
 starred: false
-sourcePath: _posts/2016-08-03-prismalook-sketchclub-snapseed-formulasapp-fleursfriday.md
 inFeed: true
 hasPage: false
 inNav: false
