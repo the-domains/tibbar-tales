@@ -6,9 +6,13 @@ color:
   saturation: 0.2624779869802296
   rhythmicContrast: 0.3208434977568686
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: tibbar tales
+navigation:
+  - name: Art of Mob
+    url: 'http://artofmob.blogspot.com'
+    type: external
