@@ -12,9 +12,6 @@ color:
     - '#FFFFFF'
 layout_spectrum: 0.02217496349476278
 name: tibbar tales
-navigation:
-  - name: Art of Mob
-    url: 'http://artofmob.blogspot.com'
-    type: external
+navigation: []
 title: mobile photography
 description: ...all from an iphone
