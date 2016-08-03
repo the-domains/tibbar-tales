@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T17:23:53.595Z'
+datePublished: '2016-08-03T17:32:52.731Z'
 sourcePath: _posts/2016-08-03-prismalook-pikazo-sketchclub-snapseed-fleursfriday-flo.md
 isBasedOnUrl: 'https://www.instagram.com/p/BIpzYxqAxV0/?taken-by=gericentonze'
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://www.instagram.com/gericentonze'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T17:23:53.165Z'
+dateModified: '2016-08-03T17:32:52.355Z'
 title: ''
 app_links:
   - url: 'instagram://media?id=1308803169685542260'
@@ -26,12 +26,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: >-
-    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
-  domain: www.instagram.com
+publisher: {}
 description: ''
 starred: false
 inFeed: true
